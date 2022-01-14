@@ -36,4 +36,4 @@
 
 [website]: https://guymishan.github.io/MyPortfolio/
 [instagram]: https://www.instagram.com/_guymishan_/
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://www.linkedin.com/in/guy-mishan/
