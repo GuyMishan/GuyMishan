@@ -7,7 +7,7 @@
 - 📚 Computer Scienece BSc Student
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
----
+--
 
 ### Connect with me:
 
