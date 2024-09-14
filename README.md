@@ -5,7 +5,6 @@
 - 🌐 professional fullstack web developer
 - 📜 Computer Science Practical Engineer Degree
 - 📚 Computer Scienece BSc Student
-- 🥅 2023 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
